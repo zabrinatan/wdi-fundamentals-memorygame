@@ -91,4 +91,6 @@ font-size: 0;
 	font-weight: 700;
 }
 
-
+#game-board {
+	cursor:pointer;
+}
